@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ManagerApplication<manager>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.fingerten.manager.ManagerApplication",
+            "projectName": "manager",
+            "args": ""
+        }
+    ]
+}
